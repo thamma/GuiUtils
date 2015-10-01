@@ -10,15 +10,15 @@ Those fancy menus at the top of your screen...
 
 ![alt tag](http://i.imgur.com/OOZJv5T.png)
 
-Everybody seems to use them these days. Yet they are a **pain in the arse to code**.
+Everybody seems to use them these days. Yet they are a **pain to code**.
 
-That's where MenuBuilder comes into play. MenuBuilder comes with an intuitive way to build those hierarchical menus.
+That's where MenuBuilder comes into play. MenuBuilder comes with an **intuitive** way to build those **hierarchical** menus.
 All you need is some **fairy dust** here and there and you'll love MenuBuilder in no time!
 
 	
 ###Wait, what? Fairy dust?
 
-Lets say you want to create one of those nested menus in which you literally can play hide and seek (of course in the code, too!). Maybe like this:
+Lets create one of those nested/nasty menus which you literally can play hide and seek in. Maybe like this:
 
 ![alt tag](http://i.imgur.com/xc014Dm.png)
 
@@ -36,4 +36,6 @@ Now you simply have to swing your wand and you're good to go.
 
 You can view the JavaDoc right [here](thamma.github.io/GuiUtils/doc/)
 
-Or check out [another example](http://i.imgur.com/J9df6bZ.png);
+Or check out this example:
+
+![alt tag](http://i.imgur.com/J9df6bZ.png);
