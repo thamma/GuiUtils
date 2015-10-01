@@ -8,7 +8,7 @@ GuiUtils brings some lovely utilities for javafx which will make you enjoy GUI d
 ###What?
 Those fancy menus at the top of your screen...
 
-![alt tag](http://i.imgur.com/OOZJv5T.png)
+![alt tag](http://i.imgur.com/OOZJv5T.png) ![alt tag](http://i.imgur.com/xc014Dm.png)
 
 Everybody seems to use them these days. Yet they are a **pain to code**.
 
@@ -20,11 +20,10 @@ All you need is some **fairy dust** here and there and you'll love MenuBuilder i
 
 Lets create one of those nested/nasty menus which you literally can play hide and seek in. Maybe like this:
 
-![alt tag](http://i.imgur.com/xc014Dm.png)
 
 Having your code look something like [this](http://i.imgur.com/jsYHEFJ.png). Lets not go as far as having the buttons **actually do something**. My eyes are bleeding already as I type this.
 
-How about rather having something like this?
+How about this?
 
 ![alt tag](http://i.imgur.com/4DK2m3R.png)
 
