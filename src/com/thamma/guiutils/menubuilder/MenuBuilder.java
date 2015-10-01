@@ -32,8 +32,9 @@ public class MenuBuilder {
 	 * @param listener
 	 *            The onClick event
 	 * @return The MenuBuilder itself for further .append(...) calls
-	 * @see https://github.com/thamma/GuiUtils for an example and further
-	 *      information
+	 * 
+	 *         see https://github.com/thamma/GuiUtils for an example and further
+	 *         information
 	 */
 	public MenuBuilder append(String key, MenuItemType type, MenuItemListener listener) {
 		if (this.map.containsKey(key))
@@ -50,8 +51,9 @@ public class MenuBuilder {
 	 * @param listener
 	 *            The onClick event
 	 * @return The MenuBuilder itself for further .append(...) calls
-	 * @see https://github.com/thamma/GuiTools for an example and further
-	 *      information
+	 * 
+	 *         see https://github.com/thamma/GuiUtils for an example and further
+	 *         information
 	 */
 	public MenuBuilder append(String key, MenuItemListener listener) {
 		return this.append(key, MenuItemType.NORMAL, listener);
