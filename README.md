@@ -1,5 +1,8 @@
 # GuiUtils
-GuiUtils brings some useful utilities for javafx
+GuiUtils brings some lovely utilities for javafx which will make you enjoy GUI design... (kinda)!
+
+- [MenuBuilder](https://github.com/thamma/GuiUtils#menubuilder)
+
 ##MenuBuilder
 
 ###What?
@@ -15,13 +18,11 @@ All you need is some **fairy dust** here and there and you'll love MenuBuilder i
 	
 ###Wait, what? Fairy dust?
 
-Let me give you an example:
-
 Lets say you want to create one of those nested menus in which you literally can play hide and seek (of course in the code, too!). Maybe like this:
 
 ![alt tag](http://i.imgur.com/xc014Dm.png)
 
-So your code would look something like [this](http://i.imgur.com/jsYHEFJ.png). Lets not talk about having the **buttons do something**. My eyes are bleeding as I type this.
+Having your code look something like [this](http://i.imgur.com/jsYHEFJ.png). Lets not go as far as having the buttons **actually do something**. My eyes are bleeding already as I type this.
 
 How about rather having something like this?
 
