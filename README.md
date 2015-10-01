@@ -3,10 +3,11 @@ GuiUtils brings some useful utilities for javafx
 ##MenuBuilder
 
 ###What?
-Those menus at the top of your screen reading "File", "Edit" and so on...
+Those fancy menus at the top of your screen...
+![alt tag](http://i.imgur.com/1nNRIUR.png)
 Everybody seems to use them these days.
 Yet they are a pain in the arse to code.
-
+	
 ###Cool, how do I use it?
 
 ###Where can I find more about it?
