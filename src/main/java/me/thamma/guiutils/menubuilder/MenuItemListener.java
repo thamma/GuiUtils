@@ -1,4 +1,4 @@
-package com.thamma.guiutils.menubuilder;
+package me.thamma.guiutils.menubuilder;
 
 import javafx.scene.control.MenuItem;
 
