@@ -8,7 +8,7 @@ GuiUtils brings some lovely utilities for javafx which will make you enjoy GUI d
 ###What?
 Those fancy menus at the top of your screen...
 
-![alt tag](http://i.imgur.com/OOZJv5T.png) ![alt tag](http://i.imgur.com/xc014Dm.png)
+![alt tag](http://i.imgur.com/xc014Dm.png)
 
 Everybody seems to use them these days. Yet they are a **pain to code**.
 
