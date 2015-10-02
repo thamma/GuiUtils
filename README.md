@@ -33,7 +33,7 @@ Now you simply have to swing your wand and you're good to go.
 
 ###That's fancy. Gimme more!
 
-You can view the JavaDoc right [here](thamma.github.io/GuiUtils/doc/)
+You can view the JavaDoc right [here](http://thamma.github.io/GuiUtils/doc/) or check the project page [here](http://thamma.github.io/GuiUtils/).
 
 Or check out this example:
 
